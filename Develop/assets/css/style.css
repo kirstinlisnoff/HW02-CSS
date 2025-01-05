@@ -222,23 +222,29 @@ main {
 /* portfolio project images */
 /* TODO: Add portfolio project images here using background images*/
 .run-buddy {
-  
+  background-image: url("../images/bg5.jpg");
+  background-size: cover;
+  background-color: purple;
 }
 
 .led-wall {
-  
+  background-image: url("../images/bg2.jpeg");
+  background-size: cover;
 }
 
 .react-calc {
-  
+  background-image: url("../images/bg3.jpg");
+  background-size: cover;
 }
 
 .pastel-puzzles {
-  
+  background-image: url("../images/bg4.jpg");
+  background-size: cover;
 }
 
 .surf-report {
-  
+  background-image:url("../images/background1.jpg");
+  background-size: cover;
 }
 
 /* media queries */
